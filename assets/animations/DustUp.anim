@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DustUp",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5c5bbfb7-f571-489a-92a0-407a32167d2a"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "e57c127f-6b2f-4683-8eb9-da0f414d1204"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "53d7f26c-54d8-44ab-bb72-7e9213b355a0"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "5fca2576-d2b9-4e6a-95f0-ec180c17f8f6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4c554f0c-7758-4fbe-8422-5db69d345d65"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "057698c2-472c-4321-b553-dc51132887f7"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    }
+  ]
+}

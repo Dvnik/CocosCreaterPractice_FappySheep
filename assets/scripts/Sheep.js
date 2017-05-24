@@ -28,7 +28,7 @@ var Sheep = cc.Class({
         _state: {
             default: State.None,
             type: State,
-            visible: flase
+            visible: false
         },
         state: {
             get: function () {
